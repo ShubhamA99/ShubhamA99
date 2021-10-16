@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamA99
+- 👋 Hi, I’m @Shubham Amande
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java 
 
