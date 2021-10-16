@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java 
 
-- 📫 How to reach me Linkedin
+- 📫  reach me on Linkedin
 
 <!---
 ShubhamA99/ShubhamA99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
