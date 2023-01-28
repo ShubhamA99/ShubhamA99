@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham Amande
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java 
+- 👀 I’m working as Software Developer  
+- 🌱 technologies i know - Core Java , Mysql , Vue js , MongoDB,Hibernate
 
 - 📫  reach me on Linkedin
 
