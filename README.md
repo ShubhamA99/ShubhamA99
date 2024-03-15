@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham Amande
-- 👀 I’m working as  Human Software Developer
+- 👀 I’m working as   Software Developer
 
 
 - 📫  reach me on Linkedin
